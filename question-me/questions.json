@@ -1,0 +1,46 @@
+[
+    {   
+        "title": "question1",
+        "body": "Do you like ice cream?",
+        "value": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Mostly",
+            "Always"
+        ]
+    },
+    {
+        "title": "question2",
+        "body": "Do you like cookies?",
+        "value": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Mostly",
+            "Always"
+        ]
+    },
+    {
+        "title": "question3",
+        "body": "Do you like apples",
+        "value": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Mostly",
+            "Always"
+        ]
+    },
+    {
+        "title": "question4",
+        "body": "Do you like chocolate",
+        "value": [
+            "Never",
+            "Rarely",
+            "Sometimes",
+            "Mostly",
+            "Always"
+        ]
+    }
+]

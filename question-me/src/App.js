@@ -4,16 +4,12 @@ import ProgressBar from './components/ProgressBar';
 import Question from './components/Question';
 import Results from './components/Results';
 
-const styles = {
-  fontFamily: 'sans-serif',
-  textAlign: 'center',
-};
-
 class App extends Component  {
   render () {
     return (
     <div>
       <Question />
+      {/* <Survey.Survey json={ surveyJSON } onComplete={ sendDataToServer } /> */}
       <ProgressBar />
       <Results />
     </div>
@@ -22,3 +18,4 @@ class App extends Component  {
 }
 
 export default App;
+
